@@ -1,3 +1,13 @@
+
+Mint
+<img width="1023" alt="Screen Shot 2023-12-03 at 4 41 05 PM" src="https://github.com/ZILECAO/aleo-deploy-workshop/assets/75930156/a6a30820-4518-4da2-b762-7f633714f5a0">
+
+Transfer
+<img width="773" alt="Screen Shot 2023-12-03 at 4 41 13 PM" src="https://github.com/ZILECAO/aleo-deploy-workshop/assets/75930156/c1432978-a0a5-4d59-9b07-ea4e3ec0b866">
+
+
+
+
 # Aleo Deployment Demo
 
 In this repository we will go through the steps to deploy your own Leo program on the Aleo Network.
